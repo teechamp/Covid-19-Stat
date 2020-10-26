@@ -1,48 +1,9 @@
-*{
-    color: #031B27 !important;
+.jumbotron{
+    background-image: url('../image/porter.jpg');
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    color: #eee;
+    width: 100%;
 }
-.navbar{
-    box-shadow: -3px 16px 16px -14px rgba(0,0,0,0.75);
-    -webkit-box-shadow: -3px 16px 16px -14px rgba(0,0,0,0.75);
-    -moz-box-shadow: -3px 16px 16px -14px rgba(0,0,0,0.75);
-}
-.bg-light{
-    background-color: #FFFFFF !important;
-}
-.navbar-brand img{
-    width: 180px;
-}
-.btn-default{
-    border: #0099E5 2px solid;
-    transition: all 0.3s ease-in-out;
-}
-.btn-default:hover{
-    background-color:#0099e5;
-    color: #fff !important;
-}
-.margin-top-bottom{
-    margin: 70px 0;
-    color:  #031B27;
-}
-.margin-top-bottom h3{
-    color: #626D72 !important;
-}
-.container-bg-dark{
-    background-color: #F0F2F3;
-    padding: 100px 10px 30px 10px;
-}
-.container-bg-dark h2{
-    color: #14455C;
-}
-.company img{
-    width: 100px;
-}
-.add-padding{
-    padding-top: 50px;
-}
-
-
-
-
-
 

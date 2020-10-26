@@ -1,0 +1,13 @@
+textarea{
+	resize: none;
+	height: 200px !important;
+}
+
+body{
+	background-color: black;
+	
+}
+h1{
+	background-color: white;
+	text-align: center;
+}
